@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title": "Pizza shop near me"
+    },
+    {
+        "id":2,
+        "title": "Buy new phone"
+    },
+    {
+        "id":3,
+        "title": "Weekend planning"
+    },
+    {
+        "id":4,
+        "title": "Earn money online"
+    },
+    {
+        "id":5,
+        "title": "Online shopping coupon"
+    },
+    {
+        "id":6,
+        "title": "ATM nearby"
+    },
+    {
+        "id":7,
+        "title": "Latest News"
+    },
+    {
+        "id":8,
+        "title": "Phones under 20k"
+    },
+    {
+        "id":9,
+        "title": "Software engineer jobs"
+    },
+    {
+        "id":10,
+        "title": "Latest version of react"
+    },
+    {
+        "id":11,
+        "title": "Latest version of react"
+    },
+    {
+        "id":12,
+        "title": "Weather today"
+    }
+]
